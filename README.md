@@ -66,13 +66,19 @@
 ---
 
 ## 📄 Quelques N8N
+
 ### 🏢 Backup Workflow
 <p align="center">
-  <a href="https://github.com/RedakArraid/RedakArraid/blob/main/Backup%20Workflow.png" /></a>
+  <a href="https://github.com/RedakArraid/RedakArraid/blob/main/Backup%20Workflow.png" target="_blank">
+    <img src="https://github.com/RedakArraid/RedakArraid/blob/main/Backup%20Workflow.png" alt="Backup Workflow" width="600"/>
+  </a>
 </p>
+
 ### 🏢 Gestion Factures
 <p align="center">
-  <a href="https://github.com/RedakArraid/RedakArraid/blob/main/Gestion%20Factures.png" /></a>
+  <a href="https://github.com/RedakArraid/RedakArraid/blob/main/Gestion%20Factures.png" target="_blank">
+    <img src="https://github.com/RedakArraid/RedakArraid/blob/main/Gestion%20Factures.png" alt="Gestion Factures" width="600"/>
+  </a>
 </p>
 ---
 
