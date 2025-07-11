@@ -59,9 +59,9 @@
 
 ## 📄 Mon CV
 
-📥 [Clique ici pour consulter mon CV en Français](https://github.com/RedakArraid/Khadara-Diarrassouba/blob/main/Khadara%20Diarrassouba.pdf)
+📥 [Clique ici pour consulter mon CV en Français](https://github.com/RedakArraid/RedakArraid/blob/main/Khadara%20Diarrassouba.pdf)
 
-📥 [Clique ici pour consulter mon CV en Anglais ](https://github.com/RedakArraid/Khadara-Diarrassouba/blob/main/Khadara%20Diarrassouba%20EN.pdf)
+📥 [Clique ici pour consulter mon CV en Anglais ](https://github.com/RedakArraid/RedakArraid/blob/main/Khadara%20Diarrassouba%20EN.pdf)
 
 ---
 
